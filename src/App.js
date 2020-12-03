@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React REACT REACT REACT REACT REACT REACT !!!!
+          Learn REACT , I was changed to show the full flow with Feature branch.!!!!
         </a>
       </header>
     </div>
